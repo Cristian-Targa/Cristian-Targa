@@ -4,7 +4,7 @@ Cristian Targa
 
 Me chamo Cristian Targa,
 
-Especialista da área comercial com larga experiência em estratégia de negócios. Carreira consolidada em grandes players do mercado em variados segmentos. Estou onstantemente aprimorando minhas habilidades em dados e na resolução de problemas, visando cobrir e explorar possíveis gargalos da operação. 
+Especialista da área comercial com larga experiência em estratégia de negócios. Carreira consolidada em grandes players do mercado em variados segmentos. Estou constantemente aprimorando minhas habilidades em dados e na resolução de problemas, visando cobrir e explorar possíveis gargalos da operação. 
 
 <p align="left">
 ---
