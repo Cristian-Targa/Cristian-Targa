@@ -1,5 +1,3 @@
-Cristian Targa
-
 **`Sales Ops / RevOps / BI`** 🏆
 
 Me chamo Cristian Targa,
