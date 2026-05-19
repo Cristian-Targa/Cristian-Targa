@@ -1,8 +1,12 @@
 **`Sales Ops / RevOps / BI`** 🏆
 
-Me chamo Cristian Targa,
 
-Especialista Comercial com larga experiência em estratégia de negócios. Carreira consolidada em grandes players do mercado em variados segmentos. Estou constantemente aprimorando minhas habilidades em dados e na resolução de problemas, visando cobrir e explorar possíveis gargalos da operação. 
+Seja Bem vindo(a)! 
+
+Meu nome é Cristian Targa,
+Sou profissonal com larga experiência em estratégia de negócios. Carreira consolidada em grandes players do mercado em variados segmentos. Estou constantemente aprimorando minhas habilidades em dados e na resolução de problemas visando cobrir, explorar e otimizar  possíveis gargalos da operação. 
+
+Linkedin: https://www.linkedin.com/in/cristiantarga/
 
 <p align="left">
 ---
