@@ -1,127 +1,41 @@
 Cristian Targa
 
-**`Sales Ops / BI`**
+**`Sales Ops / RevOps / BI`** 🏆
 
 Me chamo Cristian Targa,
 
-Especialista da área comercial com larga experiência em estratégia de negócios. Carreira consolidada em grandes players do mercado em variados segmentos. Estou constantemente aprimorando minhas habilidades em dados e na resolução de problemas, visando cobrir e explorar possíveis gargalos da operação. 
+Especialista Comercial com larga experiência em estratégia de negócios. Carreira consolidada em grandes players do mercado em variados segmentos. Estou constantemente aprimorando minhas habilidades em dados e na resolução de problemas, visando cobrir e explorar possíveis gargalos da operação. 
 
 <p align="left">
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Acesse meus cases: 
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+1º Case: CONSULTORIA B2B
+
+Link:
+https://rad-cascaron-824ba3.netlify.app/
+
+
+
+2º Case: MARKETING DIGITAL
+
+Link:
+https://starlit-dango-3c347b.netlify.app/
+
+
+3º Case: Funil Bowtie para SAAS
+
+Link:
+https://glittery-paletas-3ddb9f.netlify.app/
+
+
+
+4º Case: HEALTHCARE - Projeto Real aplicado com Power BI
+
+Link:
+https://app.powerbi.com/view?r=eyJrIjoiZjAwOGEzNmItMjE2MS00N2UzLTlkYjgtZTMyNjQzOTM2YjM3IiwidCI6Ijk4ZTU4MThiLTJmYTItNDBiMy05MDViLWJiMGQ2NzZlYzlhMyJ9
+
+
 
 </p>
